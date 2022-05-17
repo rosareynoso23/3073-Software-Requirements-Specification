@@ -1,1 +1,1 @@
-# Software-Requirments-Specification
+# Software-Requirements-Specification
